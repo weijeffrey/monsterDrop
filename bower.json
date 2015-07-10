@@ -1,0 +1,21 @@
+{
+  "name": "monsterDrop",
+  "version": "0.0.1",
+  "homepage": "https://github.com/weijeffrey/monsterDrop",
+  "authors": [
+    "weijefffrey <jeffreycswei@gmail.com>"
+  ],
+  "description": "project 1 WDI",
+  "main": "index.html",
+  "keywords": [
+    "project"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
